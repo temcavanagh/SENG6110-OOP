@@ -1,4 +1,3 @@
-/*  Tem Cavanagh;    C3366477;     03/03/2021 */
 
 import java.util.*;
 import javax.swing.*;
